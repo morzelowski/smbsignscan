@@ -8,7 +8,7 @@
 ▐░By░M0U░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ▌
 ▐▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▌
 
-Tiny Python tool that politely pokes SMB and asks, “Do you require signing?”
+Tiny Python tool that politely pokes SMB and asks: “Do you require signing?”
 
 It’s shy: one packet by default, two if you get fancy. Your SIEM may not even notice it showed up with flowers.
 
