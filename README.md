@@ -92,7 +92,7 @@ reporting:
 
 Notes on timeout
 - Applies per operation: DNS query, TCP connect, and each SMB recv.
-- Service check caps at min(timeout, 2s) to stay snappy. Tell us if you want full `-t` instead.
+- Service check caps at min(timeout, 2s) to stay snappy.
 
 ## Packets Per Target (Stealth Budget)
 - Default: 1 request (SMB2 NEGOTIATE only).
